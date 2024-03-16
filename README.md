@@ -2,7 +2,7 @@
 
 A simple windows and linux compatible python code that scans the handling.meta files in the cars folder. 
 
-If the cars are scattered in your resources folder, you can also choose the resources folder when selecting a folder, but that is the less optimized solution. If the code finds a duplicate handling name, it will print the nameD and the location of the handling.meta files.
+If the cars are scattered in your resources folder, you can also choose the resources folder when selecting a folder, but that is the less optimized solution. If the code finds a duplicate handling name, it will print the name and the location of the handling.meta files.
 
 ## Usage:
 1. Open Command Prompt
